@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessingSystem", "BusinessRulesEngine\OrderProcessingSystem.csproj", "{073457FE-6EA9-45FF-8EC1-0EB6DF614EF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessingSystemTests", "BusinessRulesEngineTests\OrderProcessingSystemTests.csproj", "{1B20B718-51DA-40F7-B9DE-7C0A3566D94F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{073457FE-6EA9-45FF-8EC1-0EB6DF614EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073457FE-6EA9-45FF-8EC1-0EB6DF614EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073457FE-6EA9-45FF-8EC1-0EB6DF614EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073457FE-6EA9-45FF-8EC1-0EB6DF614EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B20B718-51DA-40F7-B9DE-7C0A3566D94F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B20B718-51DA-40F7-B9DE-7C0A3566D94F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B20B718-51DA-40F7-B9DE-7C0A3566D94F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B20B718-51DA-40F7-B9DE-7C0A3566D94F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FC7BA39-1D03-469A-8C08-EB5EC921140E}
+	EndGlobalSection
+EndGlobal
